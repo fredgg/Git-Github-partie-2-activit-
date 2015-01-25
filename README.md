@@ -5,4 +5,4 @@ C'est des morceau du code source de wordpress ! Parceque wordpress c'est quand m
 
 J'ai rajouté cette ligne depuis github !
 
-Et celle-ci en local !
+Et celle-ci en local et c'est d'la balle !
